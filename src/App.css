@@ -1,0 +1,59 @@
+.page-container {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.content-wrap,
+.about-wrap,
+.content-wrap,
+.cart-wrap {
+  flex: 1;
+}
+
+.cart-list {
+  transition: all 0.5s ease;
+}
+
+.cart-list:hover {
+  transform: scale(1.1);
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+}
+
+.slide-image {
+  display: block;
+  margin: 0 auto;
+  width: 75%;
+  height: 550px;
+  object-fit: cover;
+  object-position: 0 30%;
+  transition: 0.7s;
+}
+.slide:hover .slide-image {
+  transform: scale(1.1);
+  opacity: 0.7;
+}
+
+.slide-sub {
+  z-index: 1;
+  opacity: 0;
+  transition: 0.5s;
+}
+
+.slide:hover .slide-sub {
+  opacity: 1;
+}
+
+.about {
+  overflow: hidden;
+}
+.about-image {
+  width: 100%;
+  opacity: 0.7;
+  transition: 0.7s;
+  object-fit: cover;
+}
+
+.about:hover .about-image {
+  transform: scale(1.1);
+}

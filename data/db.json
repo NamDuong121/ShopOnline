@@ -1,0 +1,196 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Mũ lưỡi trai đen trơn Classic khóa đồng cao cấp cho Nam/Nữ",
+      "price": 135000,
+      "description": "Mũ lưỡi trai đen trơn thể hiện lối sống của đa số người trẻ đương đại – TỐI GIẢN. Chiếc nón kết đen trơn là một trong những xu hướng thời trang năm 2022 được nhiều người theo đuổi. Thiết kế mũ lưỡi trai đen trơn chất liệu cao cấp không chỉ mang đến cho bạn sự thanh lịch, cuốn hút mà còn thể hút mà còn thể hiện đẳng cấp thời thượng.",
+      "category": "Mũ Lưỡi Trai",
+      "image": "https://zerdio.com.vn/wp-content/uploads/2020/12/mu-luoi-trai-den-tron-9.jpg",
+      "rating": {
+        "rate": 3.9,
+        "count": 120
+      }
+    },
+    {
+      "id": 2,
+      "title": "Nón kết, Mũ lưỡi trai Jeans trơn Classic cho Nam/Nữ",
+      "price": 197000,
+      "description": "Mũ lưỡi trai Jeans trơn là phụ kiện bổ sung thêm vẻ cá tính, tăng độ khoẻ khoắn “cool ngầu” cho phong cách thời trang của bạn. Không chỉ dành cho nam mà ngay cả các bạn nữ đều đang sử dụng mẫu nón kết cao cấp này. Mời bạn tham khảo ngay chiếc mũ này qua hình ảnh và thông số sản phẩm dưới đây ngay nhé.",
+      "category": "Mũ Lưỡi Trai",
+      "image": "https://zerdio.com.vn/wp-content/uploads/2021/08/mu-luoi-trai-jeans.jpg",
+      "rating": {
+        "rate": 4.1,
+        "count": 259
+      }
+    },
+    {
+      "id": 3,
+      "title": "Mũ lưỡi trai màu xanh dương Jean rách",
+      "price": 199999,
+      "description": " Mũ jeans còn được biết đến với cái tên là mũ bò, mang đến sự trẻ trung và năng động cho người dùng. Mũ lưỡi trai jean rách là thiết kế thể hiện sự nổi bật và phá cách, táo bạo dành cho các tín đồ thời trang. Chất liệu vải jean cao cấp thoáng mát, dễ dàng vệ sinh, thấm hút mồ hôi tốt là một sự lựa chọn hay cho các chàng trai và các nàng đấy.",
+      "category": "Mũ Lưỡi Trai",
+      "image": "https://zerdio.com.vn/wp-content/uploads/2021/08/Mu-luoi-trai-mau-xanh-duong-1.jpg",
+      "rating": {
+        "rate": 4.7,
+        "count": 500
+      }
+    },
+    {
+      "id": 4,
+      "title": "Mũ lưỡi trai Line Cap",
+      "price": 169000,
+      "description": "Mũ lưỡi trai Line Cap nổi bật với gam màu bắt mắt và các đường kẻ mạnh mẽ đang là món đồ được các tín đồ thời trang yêu thích. Không chỉ dành cho nam mà ngay cả các bạn nữ đều đang sử dụng mẫu nón kết này. Nếu bạn đang tìm mua cho mình một chiếc mũ lưỡi trai cao cấp giúp thể hiện cá tính của bản thân thì hãy tham khảo ngay gợi ý này của ZERDIO ngay nhé.",
+      "category": "Mũ Lưỡi Trai",
+      "image": "https://zerdio.com.vn/wp-content/uploads/2021/12/mu-luoi-trai-nam-M155.jpg",
+      "rating": {
+        "rate": 2.1,
+        "count": 430
+      }
+    },
+    {
+      "id": 5,
+      "title": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+      "price": 185000,
+      "description": "Mũ Snapback Smokin SN36 đen hoạ tiết là một trong những phụ kiện thời trang đặc trưng của phong cách hiphop. Với thiết kế logo hoạ tiết nổi bật và phần lưỡi màu vàng mang cá tính riêng, đây là phụ kiện giúp bạn dễ dàng thể hiện phong cách bản thân.",
+      "category": "Mũ Snapback",
+      "image": "https://zerdio.com.vn/wp-content/uploads/2021/04/mu-snapback-nam-sn36-1-510x510.jpg",
+      "rating": {
+        "rate": 4.6,
+        "count": 400
+      }
+    },
+    {
+      "id": 6,
+      "title": "Mũ lưỡi trai hiphop snapback hot ",
+      "price": 185000,
+      "description": "Mũ snapback hiphop có kết cấu đặc trưng của một chiếc nón snapback nhưng được thiết kế với phần logo nổi bật ở trung tâm và khoá nhựa nổi bật từ phía sau. Chất liệu vải kaki cao cấp được dệt may chắc chắn giúp form nón cứng cáp, cầm trên tay không bị biến dạng.",
+      "category": "Mũ Snapback",
+      "image": "https://zerdio.com.vn/wp-content/uploads/2021/04/mu-luoi-trai-hiphop-1-510x510.jpg",
+      "rating": {
+        "rate": 3.9,
+        "count": 70
+      }
+    },
+    {
+      "id": 7,
+      "title": "Nón Snapback Barber Brooklyn SN42 đen",
+      "price": 185000,
+      "description": "Mũ được làm từ chất liệu vải kaki cao cấp nên bạn sẽ không cần mất quá nhiều thời gian để là ủi vì chất liệu này thường ít nhăn, hơn nữa có độ bền cao.",
+      "category": "Mũ Snapback",
+      "image": "https://zerdio.com.vn/wp-content/uploads/2021/04/mu-snapback-SN42-1.jpg",
+      "rating": {
+        "rate": 3,
+        "count": 400
+      }
+    },
+    {
+      "id": 8,
+      "title": "Mũ Rapper Snapback Business SN25 cực chất",
+      "price": 185000,
+      "description": "Mũ Rapper Snapback Business SN25 nổi bật với thiết kế logo hoạ tiết chữ nổi cùng phần vành nón rộng và phẳng. Với kiểu dáng hiphop, chiếc mũ này rất được lòng các chàng trai, cô gái thuộc mọi phong cách từ đơn giản đến năng động, cá tính",
+      "category": "Mũ Snapback",
+      "image": "https://zerdio.com.vn/wp-content/uploads/2021/04/mu-rapper-1.jpg",
+      "rating": {
+        "rate": 1.9,
+        "count": 100
+      }
+    },
+    {
+      "id": 9,
+      "title": "Mũ rộng vành nam nữ bucket phong cách Hàn Quốc",
+      "price": 127000,
+      "description": "Mũ rộng vành nam, nữ là item ‘giải nhiệt’ cực hiệu quả trong mùa hè. Những kiểu mũ bucket vành tròn luôn nhận được rất nhiều sự ưu ái của các tín đồ thời trang mỗi khi phối đồ.",
+      "category": "Mũ Bucket",
+      "image": "https://zerdio.com.vn/wp-content/uploads/2021/04/mu-rong-vanh-nam-1.jpg",
+      "rating": {
+        "rate": 3.3,
+        "count": 203
+      }
+    },
+    {
+      "id": 10,
+      "title": "Mũ bucket trơn Classic vải cotton 2 lớp cao cấp",
+      "price": 165000,
+      "description": "Mũ bucket trơn là một trong những dòng mũ bucket được ưa chuộng hiện nay nhờ thiết kế đơn giản và chất liệu cotton 2 lớp cao cấp mang đến sự dễ chịu cho người sử dụng. Sở hữu thiết kế phần vành tròn giúp bạn có thể tự tin dạo chơi và bảo vệ gương mặt dưới những tác động của thời tiết bên ngoài.",
+      "category": "Mũ Bucket",
+      "image": "https://zerdio.com.vn/wp-content/uploads/2021/12/mu-bucket-tron-cao-cap.jpg",
+      "rating": {
+        "rate": 2.9,
+        "count": 470
+      }
+    },
+    {
+      "id": 11,
+      "title": "Mũ bucket vành cụp trơn",
+      "price": 129000,
+      "description": "Nếu bạn đang muốn tìm một sản phẩm mũ bucket đơn giản, cá tính thì đây chắc chắn là sự lựa chọn phù hợp. Mũ bucket vành cụp trơn có chất liệu 100% cotton cao cấp cùng thiết kế vành cụp che nắng tốt đem đến cho bạn trải nghiệm tốt nhất cho bạn.",
+      "category": "Mũ Bucket",
+      "image": "https://zerdio.com.vn/wp-content/uploads/2021/12/mu-bucket-vanh-cup-den-tron.jpg",
+      "rating": {
+        "rate": 4.8,
+        "count": 319
+      }
+    },
+    {
+      "id": 12,
+      "title": "Nón Mũ Bán Báo Bucket Paranoid cá tính",
+      "price": 189000,
+      "description": "Nếu bạn đang có nhu cầu muốn tìm một chiếc mũ bucket vành tròn phù hợp để tạo điểm nhấn cho set đồ của mình thì Nón Mũ Bán Báo Bucket Paranoid được xem là sự lựa chọn phù hợp.Mũ được làm từ chất liệu 100% cotton cao cấp tạo cảm giác thoáng mát và chiếc mũ vành tròn này có khả năng chống nắng rất tốt giúp bạn tránh khỏi những tác động xấu từ ánh nắng mặt trời.",
+      "category": "Mũ Bucket",
+      "image": "https://zerdio.com.vn/wp-content/uploads/2021/04/mu-ban-bao-1.jpg",
+      "rating": {
+        "rate": 4.8,
+        "count": 400
+      }
+    },
+    {
+      "id": 13,
+      "title": "Mũ len beanie ML03",
+      "price": 175000,
+      "description": "Mũ len kiểu Hàn Quốc là kiểu mũ giúp giữ ấm tốt trong mùa đông thì không thể nào bỏ qua được. Mũ len phong cách Hàn Quốc được đánh giá cao về tính đa dạng trong phong cách với vẻ trẻ trung và năng động. Không chỉ các cô gái mà các chàng trai cũng rất hợp với những chiếc mũ len nam kiểu hàn quốc để vừa sành điệu vừa ấm áp.",
+      "category": "Mũ Len",
+      "image": "https://zerdio.com.vn/wp-content/uploads/2021/08/mu-len-kieu-Han-Quoc-ML04.jpg",
+      "rating": {
+        "rate": 2.9,
+        "count": 250
+      }
+    },
+    {
+      "id": 14,
+      "title": "Mũ len trắng, đỏ, đen, xám, tím than Alien 2022 ",
+      "price": 99000,
+      "description": "Mũ len trắng, đỏ, đen, xám, tím than là món phụ kiện được rất nhiều bạn trẻ yêu thích vào những ngày trời trở lạnh. Khi thời tiết bắt đầu trở lạnh, chiếc mũ len vừa để giữ ấm, vừa là món phụ kiện dễ kết hợp trong nhiều phong cách trang phục khác nhau.",
+      "category": "Mũ Len",
+      "image": "https://zerdio.com.vn/wp-content/uploads/2021/08/mu-len-trang.jpg",
+      "rating": {
+        "rate": 2.2,
+        "count": 140
+      }
+    },
+    {
+      "id": 15,
+      "title": "Mũ len kín mặt ML012 cho nam và nữ kiểu dáng thời thượng",
+      "price": 99000,
+      "description": "Mũ len kín mặt là loại mũ khít đầu và cổ, chỉ để lộ mặt – đã trở thành mặt hàng chủ lực mới thời trang trong mùa đông này. Để vượt qua giá lạnh, ngoài áo khoác, những đôi tất thì chúng ta còn cần những chiếc mũ len ấm áp. Mũ len kín mặt luôn là lựa chọn hàng đầu. Không chờ đợi nữa, mời bạn tham khảo ngay chiếc mũ len ML012 tại ZERDIO ngay dưới đây nhé.",
+      "category": "Mũ Len",
+      "image": "https://zerdio.com.vn/wp-content/uploads/2021/08/mu-len-kin-mat-1.jpg",
+      "rating": {
+        "rate": 2.6,
+        "count": 235
+      }
+    },
+    {
+      "id": 16,
+      "title": "Mũ beanie Denim họa tiết cực chất – ML021",
+      "price": 169000,
+      "description": "Mũ len trắng, đỏ, đen, xám, tím than là món phụ kiện được rất nhiều bạn trẻ yêu thích vào những ngày trời trở lạnh. Khi thời tiết bắt đầu trở lạnh, chiếc mũ len vừa để giữ ấm, vừa là món phụ kiện dễ kết hợp trong nhiều phong cách trang phục khác nhau.",
+      "category": "Mũ Len",
+      "image": "https://zerdio.com.vn/wp-content/uploads/2021/12/mu-len-beanie-ML021.jpg",
+      "rating": {
+        "rate": 2.9,
+        "count": 340
+      }
+    }
+  ]
+}
